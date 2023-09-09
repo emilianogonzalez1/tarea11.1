@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(47, 47, 214);
+}
+
+.caja-texto{
+    background-color: wheat;
+    margin: 40vh auto 0px auto;
+    justify-content: space-around;
+    width: 300px;
+    height: auto;
+    min-height: 7vh;
+    border: solid black;
+    border-radius: 10px;
+}
+
+.caja-texto p{
+    text-align: center;
+}
+
+.btn{
+    display: flex;
+    border: transparent;
+    margin: 20px auto;
+    color: rgb(47, 47, 214);
+    background-color: wheat;
+    border-radius: 5px;
+    cursor: pointer;
+}
